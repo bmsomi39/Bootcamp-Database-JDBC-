@@ -1,0 +1,4 @@
+3,Building,House,Curie,39,3400,Gauteng,1234,1000000.0,100000.0,20 Nov 2021,Finalized :20/08/2020
+3,Architect,Jeff,NemJeff,0987654321,Arch Road,12,1222,North West,number@gmans.com
+3,Contractor,Connor,Buekes,1234567890,Alison Drive,22,2222,Western Cape,connor@gmail.com
+3,Customer,Aowa,Awoa,1245123412,London Road,12,1222,Kwa-Zulu Natal,awoa@gmail.com

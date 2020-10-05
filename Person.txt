@@ -1,0 +1,15 @@
+1,Architect,5,5,5555555555,5,5,5,5,5
+1,Contractor,5,5,5555555555,55,5,5,5,5
+1,Customer,5,5,5555555555,5,5,5,,5
+2,Architect,4,4,4444444444,4,4,4,4,4
+2,Contractor,4,4,4444444444,4,4,4,4,4
+2,Customer,4,4,4444444444,4,4,4,4,4
+3,Architect,Jeff,NemJeff,0987654321,Arch Road,12,1222,North West,number@gmans.com
+3,Contractor,Connor,Buekes,1234567890,Alison Drive,22,2222,Western Cape,connor@gmail.com
+3,Customer,Aowa,Awoa,1245123412,London Road,12,1222,Kwa-Zulu Natal,awoa@gmail.com
+4,Architect,1,1,1111111111,11,1,1,1,1
+4,Contractor,1,1,434343444343443,1,1,1,,1
+4,Customer,1,1,1111111111,1,1,1,1,1
+5,Architect,3,3,3333333333,3,3,3,3,3
+5,Contractor,3,3,39393939393939,3,3,3,3,3
+5,Customer,3,3,3333333333,3,3,3,3,3
